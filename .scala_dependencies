@@ -6,4 +6,7 @@ D:\Projects\Labs\ScalaKata\fizz-buzz-scala\src\test\code\org\codingkata\unit\Kat
 -------
 D:\Projects\Labs\ScalaKata\fizz-buzz-scala\src\main\code\org\codingkata\unit\MyKata.scala -> D:\Projects\Labs\ScalaKata\fizz-buzz-scala\bin\org\codingkata\unit\MyKata.class
 D:\Projects\Labs\ScalaKata\fizz-buzz-scala\src\test\code\org\codingkata\unit\KataTest.scala -> D:\Projects\Labs\ScalaKata\fizz-buzz-scala\bin\org\codingkata\unit\KataTest.class
-D:\Projects\Labs\ScalaKata\fizz-buzz-scala\src\test\code\org\codingkata\unit\KataTest.scala -> D:\Projects\Labs\ScalaKata\fizz-buzz-scala\bin\org\codingkata\unit\KataTest$$anonfun$normalNumberGivesNumber$1.class
+D:\Projects\Labs\ScalaKata\fizz-buzz-scala\src\test\code\org\codingkata\unit\KataTest.scala -> D:\Projects\Labs\ScalaKata\fizz-buzz-scala\bin\org\codingkata\unit\KataTest$$anonfun$testNormalNumberGivesNumber$1.class
+D:\Projects\Labs\ScalaKata\fizz-buzz-scala\src\test\code\org\codingkata\unit\KataTest.scala -> D:\Projects\Labs\ScalaKata\fizz-buzz-scala\bin\org\codingkata\unit\KataTest$$anonfun$testFizzNumbers$1.class
+D:\Projects\Labs\ScalaKata\fizz-buzz-scala\src\test\code\org\codingkata\unit\KataTest.scala -> D:\Projects\Labs\ScalaKata\fizz-buzz-scala\bin\org\codingkata\unit\KataTest$$anonfun$testFizzBuzzNumbers$1.class
+D:\Projects\Labs\ScalaKata\fizz-buzz-scala\src\test\code\org\codingkata\unit\KataTest.scala -> D:\Projects\Labs\ScalaKata\fizz-buzz-scala\bin\org\codingkata\unit\KataTest$$anonfun$testBuzzNumbers$1.class
